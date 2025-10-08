@@ -667,6 +667,53 @@ Author: [machka pasla](https://github.com/machka-pasla)
 
 ---
 
+### Remnawave Bedolaga Bot
+
+Modern Telegram bot for automating VPN business through Remnawave API. Full-featured solution with user management, multi-channel payments, referral system, detailed analytics, Web API, and Telegram Mini App integration.
+
+Author: [Fr1ngg](https://github.com/Fr1ngg)
+
+<div style={{ display: 'flex', justifyContent: 'center', gap: '1rem', flexWrap: 'wrap' }}>
+  <Button label="Github repository" link="[https://github.com/machka-pasla/remnawave-tg-shop](https://github.com/Fr1ngg/remnawave-bedolaga-telegram-bot)" variant="secondary" size="md" outline />
+  <Button label="Telegram Chat" link="https://t.me/+wTdMtSWq8YdmZmVi" variant="secondary" size="md" outline />
+</div>
+<br />
+
+**🔥 Key Features:**
+- 💰 **Multi-channel payments** - Telegram Stars, Tribute, YooKassa (SBP + receipts), CryptoBot, MulenPay, PayPalych
+- 🎯 **Full automation** - from registration to subscription renewals
+- 🎁 **Advanced promo system** - flexible promo codes (balance/days/extended trial), advertising campaigns with automatic bonuses, detailed usage statistics
+- 📊 **Powerful analytics** - comprehensive statistics for users, payments, and servers
+- 🛡️ **Enterprise ready** - AsyncIO, PostgreSQL, Redis, panel protection via cookies
+- 🗄️ **Backup system** - automatic backups with Telegram notifications
+- 🌐 **Multi-language** - Russian and English support
+- 🔧 **Flexible configuration** - customizable plans, traffic packages, devices, servers
+- 🌐 **Web API** - RESTful API for external integrations and custom admin panels
+- 📱 **Telegram Mini App** - built-in subscription page with QR codes and deep links
+
+**👤 For Users:**
+- Trial subscriptions with customizable parameters
+- Flexible periods (14-360 days) and traffic packages
+- Automatic server selection or manual multi-select
+- Device management and auto-renewal from balance
+- Telegram Mini App for viewing subscriptions and connection guides
+- Promo code activation with instant bonuses
+
+**⚙️ For Administrators:**
+- Full user and subscription control
+- Promo code management system (money/days/trial bonuses)
+- Advertising campaign creation with automatic rewards
+- Segmented broadcasts with HTML markup
+- Remnawave panel monitoring with automatic maintenance mode
+- Web API with authentication for building custom admin panels
+- Mini App configuration for subscription management
+
+<div style={{ display: 'flex', justifyContent: 'center' }}>
+  <img src="https://github.com/user-attachments/assets/717414c0-2134-4287-9822-0719fb6dbec5" alt="Remnawave Bedolaga Bot" width="600" />
+</div>
+
+---
+
 ## Add project to the list
 
 If you want to add your project to the list, please open a PR on [GitHub](https://github.com/remnawave/panel/blob/main/docs/awesome-remnawave.md).
